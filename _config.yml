@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8996416
+  brandStrength: 0.3598619
+  lightness: 0.9014337
+  rhythmicContrast: 0.874552
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.4014337
+name: The Maslow Experiment
