@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6129032
-  brandStrength: 0.7240143
-  lightness: 0.483871
-  brandColors:
-    - '#333335'
-    - '#939997'
-    - '#8F6F5F'
-    - '#F6BA73'
-    - '#FEFA9B'
-  rhythmicContrast: 0.2580645
 typography_spectrum: 0.3566308
+color:
+  saturation: 0.8333333
+  brandStrength: 0.8440861
+  lightness: 0.6684588
+  brandColors:
+    - '#9E9F97'
+    - '#E0BF96'
+    - '#656661'
+    - '#494A45'
+    - '#DFE5DD'
+  rhythmicContrast: 0.5268817
 layout_spectrum: 0.6594982
 name: The Maslow Experiment
