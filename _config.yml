@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.8996416
-  brandStrength: 0.3598619
+  brandStrength: 0.7240143
   lightness: 0.9014337
-  rhythmicContrast: 0.874552
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-typography_spectrum: 0.4014337
+    - '#333335'
+    - '#939997'
+    - '#8F6F5F'
+    - '#F6BA73'
+    - '#FEFA9B'
+  rhythmicContrast: 0.874552
+typography_spectrum: 0.3566308
+layout_spectrum: 0.3315412
 name: The Maslow Experiment
